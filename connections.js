@@ -1,10 +1,9 @@
+
 /*
 
- * Simple base bot whatsapp
- * Created by Anggazyy ZcoderX
- * Support by ChatGPT Assistant
- * Jangan delete credit ya ^^
- 
+ * Base By Anggazyy
+ * Jangan hapus credit yaw
+
  Contact Support:
  📞 Whatsapp : wa.me/6288804148639
  ☎ Telegram : t.me/anggazyydev
