@@ -1,0 +1,25 @@
+{
+  "name": "Geforce",
+  "version": "1.0.0",
+  "description": "Made By Anggazyy Mods",
+  "main": "connections.js",
+  "scripts": {
+    "start": "node connections.js"
+  },
+  "author": "AnggazyyDev",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@whiskeysockets/baileys":"github:nstar-y/Bail",
+    "awesome-phonenumber": "^2.64.0",
+    "jimp": "^0.22.12",
+    "cfonts": "^3.3.0",
+    "pino": "^9.5.0",
+    "human-readable": "^0.2.1",
+    "axios": "^1.7.8",
+    "@hapi/boom": "^10.0.1",
+    "moment-timezone": "^0.5.46",
+    "lodash": "^4.17.21",
+    "chalk": "^4.1.2"
+  }
+}
