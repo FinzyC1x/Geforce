@@ -1,3 +1,14 @@
+/*
+
+ * Base By Anggazyy
+ * Jangan hapus credit yaw
+
+ Contact Support:
+ 📞 Whatsapp : wa.me/6288804148639
+ ☎ Telegram : t.me/anggazyydev
+ 
+*/
+
 global.owner = [
   "6288804148639", //ganti nomor owner
   "" //nomor owner kedua kalo ada
