@@ -10,7 +10,7 @@
 */
 
 global.owner = [
-  "6288804148639", //ganti nomor owner
+  "6285668310873", //ganti nomor owner
   "" //nomor owner kedua kalo ada
 ]
 
